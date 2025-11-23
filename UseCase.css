@@ -1,0 +1,38 @@
+
+
+body {
+    background-color: aquamarine;
+    margin: 5px;
+} 
+
+h1 {
+    color: purple;
+    font-family: "Lucida Console";
+    margin: 5px;
+}
+
+h3 {
+    color: darkred;
+    font-family: "Lucida Console";
+    margin: 5px
+
+}
+
+p {
+    color: red;
+    font-family: "Lucida Console"; 
+    margin: 5px;
+}
+
+a.btn {
+    text-decoration: none;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:#00ca18;
+    color: white;
+    border-radius: 5px;
+    margin: 5px
+}
